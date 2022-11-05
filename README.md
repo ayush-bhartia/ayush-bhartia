@@ -15,7 +15,7 @@
   <img src="https://komarev.com/ghpvc/?username=ayush-bhartia&style=flat-square&color=blue" alt=""/></div>
   </div>
   <h1>
-  Hey there!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> <h4 align="center"> I am Ayush Bhartia, a web-development enthusiast from India.</h4>
+  Hey there! I am Ayush Bhartia <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> <h4 align="center"> An open source enthusiast and a passionate web-developer from India.</h4>
 </h1>
 
 <!--
