@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Django and Docker**
 
-- 👨‍💻 All of my projects are available at <a href="https://github.com/ayush-bhartia"><img src="https://img.shields.io/badge/-ayushseven-black?style=flat&logo=Github&logoColor=white" />
+- 👨‍💻 All of my projects are available at <a href="https://github.com/ayush-bhartia"><img src="https://img.shields.io/badge/-ayush bhartia-black?style=flat&logo=Github&logoColor=white" />
 - 💬 Ask me about **Vue**
 
 - 📫 Reach me at <a href="https://mail.google.com/mail/u/2/#inbox"><img src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white" />
