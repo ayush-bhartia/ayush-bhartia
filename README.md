@@ -1,19 +1,12 @@
-<h1 align="center">Hey there!👋, I'm Ayush Bhartia</h1>
-<h3 align="center">A passionate Web Developer and an open source enthusiast from India.</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ayush-bhartia&label=Profile%20views&color=0e75b6&style=flat" alt="ayush-bhartia" /> </p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayush-bhartia" alt="ayush-bhartia" /></a> </p>
+<h1 align="left">Hey there!👋, I'm Ayush</h1>
+<h3 align="left">A passionate Web Developer and an open source enthusiast.</h3>
 
 <p align="center"> <a href="https://twitter.com/ayush_seven" target="blank"><img src="https://img.shields.io/twitter/follow/ayush_seven?logo=twitter&style=for-the-badge" alt="ayush_seven" /></a> </p>
 
 - I’m currently working on [TradeDeck](https://github.com/ayush-bhartia/TDOC-Stock-Analysis-App)
 
-- I’m currently learning **Django and Docker**
-
-- All of my projects are available at <a href="https://github.com/ayush-bhartia"><img src="https://img.shields.io/badge/-ayush bhartia-black?style=flat&logo=Github&logoColor=white" />
-- Ask me about **Vue.js**
-
-- Reach me at <a href="https://mail.google.com/mail/u/2/#inbox"><img src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white" />
+- I’m currently learning **Django**
+- I am interested in Competitive Programming and Artificial Intelligence
   
   <h3 align="center">Connect with me:</h3>
 <p align="center">
