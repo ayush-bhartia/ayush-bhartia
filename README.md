@@ -3,7 +3,7 @@
 
 <p align="center"> <a href="https://twitter.com/ayush_seven" target="blank"><img src="https://img.shields.io/twitter/follow/ayush_seven?logo=twitter&style=for-the-badge" alt="ayush_seven" /></a> </p>
 
-- I’m currently working on [TradeDeck](https://github.com/ayush-bhartia/TDOC-Stock-Analysis-App)
+- I’m currently working on [CartConnect](https://github.com/ayush-bhartia/CartConnect)
 
 - I’m currently learning **Android App Development**
 - I am interested in Competitive Programming and DevOps
