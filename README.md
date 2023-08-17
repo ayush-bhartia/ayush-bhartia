@@ -5,8 +5,8 @@
 
 - I’m currently working on [TradeDeck](https://github.com/ayush-bhartia/TDOC-Stock-Analysis-App)
 
-- I’m currently learning **Django**
-- I am interested in Competitive Programming and Artificial Intelligence
+- I’m currently learning **Android App Development**
+- I am interested in Competitive Programming and DevOps
   
   <h3 align="center">Connect with me:</h3>
 <p align="center">
